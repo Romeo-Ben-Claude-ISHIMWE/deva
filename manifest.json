@@ -1,0 +1,1648 @@
+{
+  "source": "/",
+  "created_utc": "2026-09-02T10:24:23Z",
+  "saved": 200,
+  "errors": 8,
+  "records": [
+    {
+      "url": "/",
+      "final_url": "/",
+      "content_type": "text/html",
+      "bytes": 115178,
+      "file": "index.html",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/uploads/media-uploader/heading1753627291.png",
+      "final_url": "/assets/uploads/media-uploader/heading1753627291.png",
+      "content_type": "image/png",
+      "bytes": 2569,
+      "file": "assets\\uploads\\media-uploader\\heading1753627291.png",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/css/fontawesome.min.css",
+      "final_url": "/assets/frontend/css/fontawesome.min.css",
+      "content_type": "text/css",
+      "bytes": 56842,
+      "file": "assets\\frontend\\css\\fontawesome.min.css",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/css/flaticon.css",
+      "final_url": "/assets/frontend/css/flaticon.css",
+      "content_type": "text/css",
+      "bytes": 2920,
+      "file": "assets\\frontend\\css\\flaticon.css",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/css/nexicon.css",
+      "final_url": "/assets/frontend/css/nexicon.css",
+      "content_type": "text/css",
+      "bytes": 10883,
+      "file": "assets\\frontend\\css\\nexicon.css",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/css/bootstrap.min.css",
+      "final_url": "/assets/frontend/css/bootstrap.min.css",
+      "content_type": "text/css",
+      "bytes": 159469,
+      "file": "assets\\frontend\\css\\bootstrap.min.css",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/css/owl.carousel.min.css",
+      "final_url": "/assets/frontend/css/owl.carousel.min.css",
+      "content_type": "text/css",
+      "bytes": 3580,
+      "file": "assets\\frontend\\css\\owl.carousel.min.css",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/css/animate.css",
+      "final_url": "/assets/frontend/css/animate.css",
+      "content_type": "text/css",
+      "bytes": 75052,
+      "file": "assets\\frontend\\css\\animate.css",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/css/magnific-popup.css",
+      "final_url": "/assets/frontend/css/magnific-popup.css",
+      "content_type": "text/css",
+      "bytes": 5235,
+      "file": "assets\\frontend\\css\\magnific-popup.css",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/css/style.css",
+      "final_url": "/assets/frontend/css/style.css",
+      "content_type": "text/css",
+      "bytes": 431475,
+      "file": "assets\\frontend\\css\\style.css",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/css/style-two.css",
+      "final_url": "/assets/frontend/css/style-two.css",
+      "content_type": "text/css",
+      "bytes": 284754,
+      "file": "assets\\frontend\\css\\style-two.css",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/css/helpers.css",
+      "final_url": "/assets/frontend/css/helpers.css",
+      "content_type": "text/css",
+      "bytes": 205768,
+      "file": "assets\\frontend\\css\\helpers.css",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/css/responsive.css",
+      "final_url": "/assets/frontend/css/responsive.css",
+      "content_type": "text/css",
+      "bytes": 48605,
+      "file": "assets\\frontend\\css\\responsive.css",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/css/jquery.ihavecookies.css",
+      "final_url": "/assets/frontend/css/jquery.ihavecookies.css",
+      "content_type": "text/css",
+      "bytes": 4608,
+      "file": "assets\\frontend\\css\\jquery.ihavecookies.css",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/css/dynamic-style.css",
+      "final_url": "/assets/frontend/css/dynamic-style.css",
+      "content_type": "text/css",
+      "bytes": 92,
+      "file": "assets\\frontend\\css\\dynamic-style.css",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/css/toastr.css",
+      "final_url": "/assets/frontend/css/toastr.css",
+      "content_type": "text/css",
+      "bytes": 6048,
+      "file": "assets\\frontend\\css\\toastr.css",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/css/slick.css",
+      "final_url": "/assets/frontend/css/slick.css",
+      "content_type": "text/css",
+      "bytes": 1327,
+      "file": "assets\\frontend\\css\\slick.css",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/css/jquery.mb.YTPlayer.min.css",
+      "final_url": "/assets/frontend/css/jquery.mb.YTPlayer.min.css",
+      "content_type": "text/css",
+      "bytes": 9238,
+      "file": "assets\\frontend\\css\\jquery.mb.YTPlayer.min.css",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/css/home-10.css",
+      "final_url": "/assets/frontend/css/home-10.css",
+      "content_type": "text/css",
+      "bytes": 14130,
+      "file": "assets\\frontend\\css\\home-10.css",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/js/jquery.min.js",
+      "final_url": "/assets/frontend/js/jquery.min.js",
+      "content_type": "application/javascript",
+      "bytes": 87462,
+      "file": "assets\\frontend\\js\\jquery.min.js",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/js/jquery-migrate.min.js",
+      "final_url": "/assets/frontend/js/jquery-migrate.min.js",
+      "content_type": "application/javascript",
+      "bytes": 13577,
+      "file": "assets\\frontend\\js\\jquery-migrate.min.js",
+      "status": "saved"
+    },
+    {
+      "url": "/contact",
+      "final_url": "/contact",
+      "content_type": "text/html",
+      "bytes": 58736,
+      "file": "contact\\index.html",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/uploads/media-uploader/deva-11753282247.png",
+      "final_url": "/assets/uploads/media-uploader/deva-11753282247.png",
+      "content_type": "image/png",
+      "bytes": 9113,
+      "file": "assets\\uploads\\media-uploader\\deva-11753282247.png",
+      "status": "saved"
+    },
+    {
+      "url": "/clinic",
+      "final_url": "/clinic",
+      "content_type": "text/html",
+      "bytes": 69160,
+      "file": "clinic\\index.html",
+      "status": "saved"
+    },
+    {
+      "url": "/image-gallery",
+      "final_url": "/image-gallery",
+      "content_type": "text/html",
+      "bytes": 62782,
+      "file": "image-gallery\\index.html",
+      "status": "saved"
+    },
+    {
+      "url": "/video-gallery",
+      "final_url": "/video-gallery",
+      "content_type": "text/html",
+      "bytes": 56195,
+      "file": "video-gallery\\index.html",
+      "status": "saved"
+    },
+    {
+      "url": "/departments",
+      "final_url": "/departments",
+      "content_type": "text/html",
+      "bytes": 60652,
+      "file": "departments\\index.html",
+      "status": "saved"
+    },
+    {
+      "url": "/doctors",
+      "final_url": "/doctors",
+      "content_type": "text/html",
+      "bytes": 67006,
+      "file": "doctors\\index.html",
+      "status": "saved"
+    },
+    {
+      "url": "/hair-transplantation",
+      "final_url": "/hair-transplantation",
+      "content_type": "text/html",
+      "bytes": 56414,
+      "file": "hair-transplantation\\index.html",
+      "status": "saved"
+    },
+    {
+      "url": "/blog",
+      "final_url": "/blog",
+      "content_type": "text/html",
+      "bytes": 63201,
+      "file": "blog\\index.html",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/uploads/media-uploader/untitled-design-131753096154.jpg",
+      "final_url": "/assets/uploads/media-uploader/untitled-design-131753096154.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 21246,
+      "file": "assets\\uploads\\media-uploader\\untitled-design-131753096154.jpg",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/uploads/media-uploader/untitled-design-121753096154.jpg",
+      "final_url": "/assets/uploads/media-uploader/untitled-design-121753096154.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 13017,
+      "file": "assets\\uploads\\media-uploader\\untitled-design-121753096154.jpg",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/uploads/media-uploader/11752851441.jpg",
+      "final_url": "/assets/uploads/media-uploader/11752851441.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 95103,
+      "file": "assets\\uploads\\media-uploader\\11752851441.jpg",
+      "status": "saved"
+    },
+    {
+      "url": "/departments/pediatrics",
+      "final_url": "/departments/pediatrics",
+      "content_type": "text/html",
+      "bytes": 67250,
+      "file": "departments\\pediatrics\\index.html",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/uploads/media-uploader/21752851441.jpg",
+      "final_url": "/assets/uploads/media-uploader/21752851441.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 98812,
+      "file": "assets\\uploads\\media-uploader\\21752851441.jpg",
+      "status": "saved"
+    },
+    {
+      "url": "/departments/dentistry",
+      "final_url": "/departments/dentistry",
+      "content_type": "text/html",
+      "bytes": 63834,
+      "file": "departments\\dentistry\\index.html",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/uploads/media-uploader/31752851442.jpg",
+      "final_url": "/assets/uploads/media-uploader/31752851442.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 93493,
+      "file": "assets\\uploads\\media-uploader\\31752851442.jpg",
+      "status": "saved"
+    },
+    {
+      "url": "/departments/pediatric-cardiology",
+      "final_url": "/departments/pediatric-cardiology",
+      "content_type": "text/html",
+      "bytes": 61953,
+      "file": "departments\\pediatric-cardiology\\index.html",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/uploads/media-uploader/41752851442.jpg",
+      "final_url": "/assets/uploads/media-uploader/41752851442.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 91873,
+      "file": "assets\\uploads\\media-uploader\\41752851442.jpg",
+      "status": "saved"
+    },
+    {
+      "url": "/departments/obstetrics-and-gynecology",
+      "final_url": "/departments/obstetrics-and-gynecology",
+      "content_type": "text/html",
+      "bytes": 62902,
+      "file": "departments\\obstetrics-and-gynecology\\index.html",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/uploads/media-uploader/51752851443.jpg",
+      "final_url": "/assets/uploads/media-uploader/51752851443.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 98365,
+      "file": "assets\\uploads\\media-uploader\\51752851443.jpg",
+      "status": "saved"
+    },
+    {
+      "url": "/departments/internal-medecine",
+      "final_url": "/departments/internal-medecine",
+      "content_type": "text/html",
+      "bytes": 62718,
+      "file": "departments\\internal-medecine\\index.html",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/uploads/media-uploader/61752851443.jpg",
+      "final_url": "/assets/uploads/media-uploader/61752851443.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 122783,
+      "file": "assets\\uploads\\media-uploader\\61752851443.jpg",
+      "status": "saved"
+    },
+    {
+      "url": "/departments/laboratory",
+      "final_url": "/departments/laboratory",
+      "content_type": "text/html",
+      "bytes": 61716,
+      "file": "departments\\laboratory\\index.html",
+      "status": "saved"
+    },
+    {
+      "url": "/doctors-category/6/internal-medicine",
+      "final_url": "/doctors-category/6/internal-medicine",
+      "content_type": "text/html",
+      "bytes": 55784,
+      "file": "doctors-category\\6\\internal-medicine\\index.html",
+      "status": "saved"
+    },
+    {
+      "url": "/doctors/dr-aim%C3%A9-niyonsaba/9",
+      "final_url": "/doctors/dr-aim%C3%A9-niyonsaba/9",
+      "content_type": "text/html",
+      "bytes": 86609,
+      "file": "doctors\\dr-aimé-niyonsaba\\9\\index.html",
+      "status": "saved"
+    },
+    {
+      "url": "/doctors-category/7/general-practitioner",
+      "final_url": "/doctors-category/7/general-practitioner",
+      "content_type": "text/html",
+      "bytes": 55801,
+      "file": "doctors-category\\7\\general-practitioner\\index.html",
+      "status": "saved"
+    },
+    {
+      "url": "/doctors/dr.gaspard-ntazinda/10",
+      "final_url": "/doctors/dr.gaspard-ntazinda/10",
+      "content_type": "text/html",
+      "bytes": 86304,
+      "file": "doctors\\dr.gaspard-ntazinda\\10\\index.html",
+      "status": "saved"
+    },
+    {
+      "url": "/doctors-category/5/dentistry",
+      "final_url": "/doctors-category/5/dentistry",
+      "content_type": "text/html",
+      "bytes": 57998,
+      "file": "doctors-category\\5\\dentistry\\index.html",
+      "status": "saved"
+    },
+    {
+      "url": "/doctors/dr.-lalita-rohilla/12",
+      "final_url": "/doctors/dr.-lalita-rohilla/12",
+      "content_type": "text/html",
+      "bytes": 85635,
+      "file": "doctors\\dr.-lalita-rohilla\\12\\index.html",
+      "status": "saved"
+    },
+    {
+      "url": "/doctors-category/10/gynecology",
+      "final_url": "/doctors-category/10/gynecology",
+      "content_type": "text/html",
+      "bytes": 55765,
+      "file": "doctors-category\\10\\gynecology\\index.html",
+      "status": "saved"
+    },
+    {
+      "url": "/doctors/prof.-dr.-diomede-ntasumbumuyange/13",
+      "final_url": "/doctors/prof.-dr.-diomede-ntasumbumuyange/13",
+      "content_type": "text/html",
+      "bytes": 87166,
+      "file": "doctors\\prof.-dr.-diomede-ntasumbumuyange\\13\\index.html",
+      "status": "saved"
+    },
+    {
+      "url": "/doctors/dr.-dheeraj-rohilla/14",
+      "final_url": "/doctors/dr.-dheeraj-rohilla/14",
+      "content_type": "text/html",
+      "bytes": 85337,
+      "file": "doctors\\dr.-dheeraj-rohilla\\14\\index.html",
+      "status": "saved"
+    },
+    {
+      "url": "/doctors-category/9/pediatrics-pediatric-cardiology",
+      "final_url": "/doctors-category/9/pediatrics-pediatric-cardiology",
+      "content_type": "text/html",
+      "bytes": 55930,
+      "file": "doctors-category\\9\\pediatrics-pediatric-cardiology\\index.html",
+      "status": "saved"
+    },
+    {
+      "url": "/doctors/prof.dr.-joseph-mucumbitsi/16",
+      "final_url": "/doctors/prof.dr.-joseph-mucumbitsi/16",
+      "content_type": "text/html",
+      "bytes": 82928,
+      "file": "doctors\\prof.dr.-joseph-mucumbitsi\\16\\index.html",
+      "status": "saved"
+    },
+    {
+      "url": "/doctors-category/8/gynecologist-and-obstetrician",
+      "final_url": "/doctors-category/8/gynecologist-and-obstetrician",
+      "content_type": "text/html",
+      "bytes": 55930,
+      "file": "doctors-category\\8\\gynecologist-and-obstetrician\\index.html",
+      "status": "saved"
+    },
+    {
+      "url": "/doctors/dr.odile-murekatete/19",
+      "final_url": "/doctors/dr.odile-murekatete/19",
+      "content_type": "text/html",
+      "bytes": 82984,
+      "file": "doctors\\dr.odile-murekatete\\19\\index.html",
+      "status": "saved"
+    },
+    {
+      "url": "/doctors/dr.-beno%C3%AEt-nyirinkwaya/20",
+      "final_url": "/doctors/dr.-beno%C3%AEt-nyirinkwaya/20",
+      "content_type": "text/html",
+      "bytes": 82834,
+      "file": "doctors\\dr.-benoît-nyirinkwaya\\20\\index.html",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/uploads/media-uploader/chatgpt-image-jul-11-2026-11-13-44-am1783945049.png",
+      "final_url": "/assets/uploads/media-uploader/chatgpt-image-jul-11-2026-11-13-44-am1783945049.png",
+      "content_type": "image/png",
+      "bytes": 1935247,
+      "file": "assets\\uploads\\media-uploader\\chatgpt-image-jul-11-2026-11-13-44-am1783945049.png",
+      "status": "saved"
+    },
+    {
+      "url": "/blog/teeth-care-taking",
+      "final_url": "/blog/teeth-care-taking",
+      "content_type": "text/html",
+      "bytes": 67652,
+      "file": "blog\\teeth-care-taking\\index.html",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/uploads/media-uploader/91752853202.jpg",
+      "final_url": "/assets/uploads/media-uploader/91752853202.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 103441,
+      "file": "assets\\uploads\\media-uploader\\91752853202.jpg",
+      "status": "saved"
+    },
+    {
+      "url": "/blog/symptoms-of-hepatitis-c-virus",
+      "final_url": "/blog/symptoms-of-hepatitis-c-virus",
+      "content_type": "text/html",
+      "bytes": 69930,
+      "file": "blog\\symptoms-of-hepatitis-c-virus\\index.html",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/uploads/media-uploader/81752853233.jpg",
+      "final_url": "/assets/uploads/media-uploader/81752853233.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 84295,
+      "file": "assets\\uploads\\media-uploader\\81752853233.jpg",
+      "status": "saved"
+    },
+    {
+      "url": "/blog/facts-you-should-know-about-your-oral-health",
+      "final_url": "/blog/facts-you-should-know-about-your-oral-health",
+      "content_type": "text/html",
+      "bytes": 70126,
+      "file": "blog\\facts-you-should-know-about-your-oral-health\\index.html",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/uploads/media-uploader/101752853255.jpg",
+      "final_url": "/assets/uploads/media-uploader/101752853255.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 127328,
+      "file": "assets\\uploads\\media-uploader\\101752853255.jpg",
+      "status": "saved"
+    },
+    {
+      "url": "/blog/differences-between-communicable-and-infectious-diseases",
+      "final_url": "/blog/differences-between-communicable-and-infectious-diseases",
+      "content_type": "text/html",
+      "bytes": 70087,
+      "file": "blog\\differences-between-communicable-and-infectious-diseases\\index.html",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/uploads/media-uploader/thumb-chatgpt-image-jul-11-2026-11-13-44-am1783945049.png",
+      "final_url": "/assets/uploads/media-uploader/thumb-chatgpt-image-jul-11-2026-11-13-44-am1783945049.png",
+      "content_type": "image/png",
+      "bytes": 44450,
+      "file": "assets\\uploads\\media-uploader\\thumb-chatgpt-image-jul-11-2026-11-13-44-am1783945049.png",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/uploads/media-uploader/thumb-91752853202.jpg",
+      "final_url": "/assets/uploads/media-uploader/thumb-91752853202.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 9788,
+      "file": "assets\\uploads\\media-uploader\\thumb-91752853202.jpg",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/common/js/countdown.jquery.js",
+      "final_url": "/assets/common/js/countdown.jquery.js",
+      "content_type": "application/javascript",
+      "bytes": 5080,
+      "file": "assets\\common\\js\\countdown.jquery.js",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/js/bootstrap.bundle.min.js",
+      "final_url": "/assets/frontend/js/bootstrap.bundle.min.js",
+      "content_type": "application/javascript",
+      "bytes": 122465,
+      "file": "assets\\frontend\\js\\bootstrap.bundle.min.js",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/js/dynamic-script.js",
+      "final_url": "/assets/frontend/js/dynamic-script.js",
+      "content_type": "application/javascript",
+      "bytes": 63,
+      "file": "assets\\frontend\\js\\dynamic-script.js",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/js/jquery.magnific-popup.js",
+      "final_url": "/assets/frontend/js/jquery.magnific-popup.js",
+      "content_type": "application/javascript",
+      "bytes": 41730,
+      "file": "assets\\frontend\\js\\jquery.magnific-popup.js",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/js/imagesloaded.pkgd.min.js",
+      "final_url": "/assets/frontend/js/imagesloaded.pkgd.min.js",
+      "content_type": "application/javascript",
+      "bytes": 5594,
+      "file": "assets\\frontend\\js\\imagesloaded.pkgd.min.js",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/js/isotope.pkgd.min.js",
+      "final_url": "/assets/frontend/js/isotope.pkgd.min.js",
+      "content_type": "application/javascript",
+      "bytes": 35503,
+      "file": "assets\\frontend\\js\\isotope.pkgd.min.js",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/js/jquery.waypoints.js",
+      "final_url": "/assets/frontend/js/jquery.waypoints.js",
+      "content_type": "application/javascript",
+      "bytes": 18832,
+      "file": "assets\\frontend\\js\\jquery.waypoints.js",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/js/jquery.counterup.min.js",
+      "final_url": "/assets/frontend/js/jquery.counterup.min.js",
+      "content_type": "application/javascript",
+      "bytes": 1923,
+      "file": "assets\\frontend\\js\\jquery.counterup.min.js",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/js/owl.carousel.min.js",
+      "final_url": "/assets/frontend/js/owl.carousel.min.js",
+      "content_type": "application/javascript",
+      "bytes": 51943,
+      "file": "assets\\frontend\\js\\owl.carousel.min.js",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/js/wow.min.js",
+      "final_url": "/assets/frontend/js/wow.min.js",
+      "content_type": "application/javascript",
+      "bytes": 8416,
+      "file": "assets\\frontend\\js\\wow.min.js",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/js/jQuery.rProgressbar.min.js",
+      "final_url": "/assets/frontend/js/jQuery.rProgressbar.min.js",
+      "content_type": "application/javascript",
+      "bytes": 2462,
+      "file": "assets\\frontend\\js\\jQuery.rProgressbar.min.js",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/js/jquery.mb.YTPlayer.js",
+      "final_url": "/assets/frontend/js/jquery.mb.YTPlayer.js",
+      "content_type": "application/javascript",
+      "bytes": 64016,
+      "file": "assets\\frontend\\js\\jquery.mb.YTPlayer.js",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/js/jquery.nicescroll.min.js",
+      "final_url": "/assets/frontend/js/jquery.nicescroll.min.js",
+      "content_type": "application/javascript",
+      "bytes": 4736,
+      "file": "assets\\frontend\\js\\jquery.nicescroll.min.js",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/js/slick.js",
+      "final_url": "/assets/frontend/js/slick.js",
+      "content_type": "application/javascript",
+      "bytes": 43146,
+      "file": "assets\\frontend\\js\\slick.js",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/js/main.js",
+      "final_url": "/assets/frontend/js/main.js",
+      "content_type": "application/javascript",
+      "bytes": 11652,
+      "file": "assets\\frontend\\js\\main.js",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/js/toastr.min.js",
+      "final_url": "/assets/frontend/js/toastr.min.js",
+      "content_type": "application/javascript",
+      "bytes": 5148,
+      "file": "assets\\frontend\\js\\toastr.min.js",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/webfonts/fa-brands-400.eot",
+      "final_url": "/assets/frontend/webfonts/fa-brands-400.eot",
+      "content_type": "application/vnd.ms-fontobject",
+      "bytes": 130906,
+      "file": "assets\\frontend\\webfonts\\fa-brands-400.eot",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/webfonts/fa-brands-400.woff2",
+      "final_url": "/assets/frontend/webfonts/fa-brands-400.woff2",
+      "content_type": "font/woff2",
+      "bytes": 75336,
+      "file": "assets\\frontend\\webfonts\\fa-brands-400.woff2",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/webfonts/fa-brands-400.woff",
+      "final_url": "/assets/frontend/webfonts/fa-brands-400.woff",
+      "content_type": "font/woff",
+      "bytes": 88428,
+      "file": "assets\\frontend\\webfonts\\fa-brands-400.woff",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/webfonts/fa-brands-400.ttf",
+      "final_url": "/assets/frontend/webfonts/fa-brands-400.ttf",
+      "content_type": "font/ttf",
+      "bytes": 130600,
+      "file": "assets\\frontend\\webfonts\\fa-brands-400.ttf",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/webfonts/fa-brands-400.svg",
+      "final_url": "/assets/frontend/webfonts/fa-brands-400.svg",
+      "content_type": "image/svg+xml",
+      "bytes": 700503,
+      "file": "assets\\frontend\\webfonts\\fa-brands-400.svg",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/webfonts/fa-regular-400.eot",
+      "final_url": "/assets/frontend/webfonts/fa-regular-400.eot",
+      "content_type": "application/vnd.ms-fontobject",
+      "bytes": 34394,
+      "file": "assets\\frontend\\webfonts\\fa-regular-400.eot",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/webfonts/fa-regular-400.woff2",
+      "final_url": "/assets/frontend/webfonts/fa-regular-400.woff2",
+      "content_type": "font/woff2",
+      "bytes": 13584,
+      "file": "assets\\frontend\\webfonts\\fa-regular-400.woff2",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/webfonts/fa-regular-400.woff",
+      "final_url": "/assets/frontend/webfonts/fa-regular-400.woff",
+      "content_type": "font/woff",
+      "bytes": 16804,
+      "file": "assets\\frontend\\webfonts\\fa-regular-400.woff",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/webfonts/fa-regular-400.ttf",
+      "final_url": "/assets/frontend/webfonts/fa-regular-400.ttf",
+      "content_type": "font/ttf",
+      "bytes": 34096,
+      "file": "assets\\frontend\\webfonts\\fa-regular-400.ttf",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/webfonts/fa-regular-400.svg",
+      "final_url": "/assets/frontend/webfonts/fa-regular-400.svg",
+      "content_type": "image/svg+xml",
+      "bytes": 144452,
+      "file": "assets\\frontend\\webfonts\\fa-regular-400.svg",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/webfonts/fa-solid-900.eot",
+      "final_url": "/assets/frontend/webfonts/fa-solid-900.eot",
+      "content_type": "application/vnd.ms-fontobject",
+      "bytes": 192758,
+      "file": "assets\\frontend\\webfonts\\fa-solid-900.eot",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/webfonts/fa-solid-900.woff2",
+      "final_url": "/assets/frontend/webfonts/fa-solid-900.woff2",
+      "content_type": "font/woff2",
+      "bytes": 75728,
+      "file": "assets\\frontend\\webfonts\\fa-solid-900.woff2",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/webfonts/fa-solid-900.woff",
+      "final_url": "/assets/frontend/webfonts/fa-solid-900.woff",
+      "content_type": "font/woff",
+      "bytes": 98384,
+      "file": "assets\\frontend\\webfonts\\fa-solid-900.woff",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/webfonts/fa-solid-900.ttf",
+      "final_url": "/assets/frontend/webfonts/fa-solid-900.ttf",
+      "content_type": "font/ttf",
+      "bytes": 192472,
+      "file": "assets\\frontend\\webfonts\\fa-solid-900.ttf",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/webfonts/fa-solid-900.svg",
+      "final_url": "/assets/frontend/webfonts/fa-solid-900.svg",
+      "content_type": "image/svg+xml",
+      "bytes": 842605,
+      "file": "assets\\frontend\\webfonts\\fa-solid-900.svg",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/webfonts/Flaticon.eot",
+      "final_url": "/assets/frontend/webfonts/Flaticon.eot",
+      "content_type": "application/vnd.ms-fontobject",
+      "bytes": 28506,
+      "file": "assets\\frontend\\webfonts\\Flaticon.eot",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/webfonts/Flaticon.woff2",
+      "final_url": "/assets/frontend/webfonts/Flaticon.woff2",
+      "content_type": "font/woff2",
+      "bytes": 14952,
+      "file": "assets\\frontend\\webfonts\\Flaticon.woff2",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/webfonts/Flaticon.woff",
+      "final_url": "/assets/frontend/webfonts/Flaticon.woff",
+      "content_type": "font/woff",
+      "bytes": 17724,
+      "file": "assets\\frontend\\webfonts\\Flaticon.woff",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/webfonts/Flaticon.ttf",
+      "final_url": "/assets/frontend/webfonts/Flaticon.ttf",
+      "content_type": "font/ttf",
+      "bytes": 28328,
+      "file": "assets\\frontend\\webfonts\\Flaticon.ttf",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/webfonts/Flaticon.svg",
+      "final_url": "/assets/frontend/webfonts/Flaticon.svg",
+      "content_type": "image/svg+xml",
+      "bytes": 179289,
+      "file": "assets\\frontend\\webfonts\\Flaticon.svg",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/webfonts/nexicon.ttf?f0c4452c7bbfac5ea9b99b59955a90d8",
+      "final_url": "/assets/frontend/webfonts/nexicon.ttf?f0c4452c7bbfac5ea9b99b59955a90d8",
+      "content_type": "font/ttf",
+      "bytes": 237852,
+      "file": "assets\\frontend\\webfonts\\nexicon__q_59778401a3.ttf",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/webfonts/nexicon.woff?f0c4452c7bbfac5ea9b99b59955a90d8",
+      "final_url": "/assets/frontend/webfonts/nexicon.woff?f0c4452c7bbfac5ea9b99b59955a90d8",
+      "content_type": "font/woff",
+      "bytes": 96436,
+      "file": "assets\\frontend\\webfonts\\nexicon__q_59778401a3.woff",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/webfonts/nexicon.woff2?f0c4452c7bbfac5ea9b99b59955a90d8",
+      "final_url": "/assets/frontend/webfonts/nexicon.woff2?f0c4452c7bbfac5ea9b99b59955a90d8",
+      "content_type": "font/woff2",
+      "bytes": 78428,
+      "file": "assets\\frontend\\webfonts\\nexicon__q_59778401a3.woff2",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/webfonts/nexicon.eot?f0c4452c7bbfac5ea9b99b59955a90d8",
+      "final_url": "/assets/frontend/webfonts/nexicon.eot?f0c4452c7bbfac5ea9b99b59955a90d8",
+      "content_type": "application/vnd.ms-fontobject",
+      "bytes": 238020,
+      "file": "assets\\frontend\\webfonts\\nexicon__q_59778401a3.eot",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/webfonts/nexicon.svg?f0c4452c7bbfac5ea9b99b59955a90d8",
+      "final_url": "/assets/frontend/webfonts/nexicon.svg?f0c4452c7bbfac5ea9b99b59955a90d8",
+      "content_type": "image/svg+xml",
+      "bytes": 3766923,
+      "file": "assets\\frontend\\webfonts\\nexicon__q_59778401a3.svg",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/css/owl.video.play.png",
+      "final_url": "/assets/frontend/css/owl.video.play.png",
+      "content_type": "text/html",
+      "bytes": 6058,
+      "file": "assets\\frontend\\css\\owl.video.play.png",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/img/bg/breadcrumb-bg.jpg",
+      "final_url": "/assets/frontend/img/bg/breadcrumb-bg.jpg",
+      "content_type": "text/html",
+      "bytes": 6058,
+      "file": "assets\\frontend\\img\\bg\\breadcrumb-bg.jpg",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/img/bg/bg-03.png",
+      "final_url": "/assets/frontend/img/bg/bg-03.png",
+      "content_type": "image/png",
+      "bytes": 29918,
+      "file": "assets\\frontend\\img\\bg\\bg-03.png",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/img/bg/bg.png",
+      "final_url": "/assets/frontend/img/bg/bg.png",
+      "content_type": "image/png",
+      "bytes": 3406,
+      "file": "assets\\frontend\\img\\bg\\bg.png",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/img/bg/cta-bg-01.jpg",
+      "final_url": "/assets/frontend/img/bg/cta-bg-01.jpg",
+      "content_type": "text/html",
+      "bytes": 6058,
+      "file": "assets\\frontend\\img\\bg\\cta-bg-01.jpg",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/img/popup/notice-popup-bg.png",
+      "final_url": "/assets/frontend/img/popup/notice-popup-bg.png",
+      "content_type": "image/png",
+      "bytes": 11693,
+      "file": "assets\\frontend\\img\\popup\\notice-popup-bg.png",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/img/icon/cicon-01.svg",
+      "final_url": "/assets/frontend/img/icon/cicon-01.svg",
+      "content_type": "image/svg+xml",
+      "bytes": 463,
+      "file": "assets\\frontend\\img\\icon\\cicon-01.svg",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/img/icon/cicon-02.svg",
+      "final_url": "/assets/frontend/img/icon/cicon-02.svg",
+      "content_type": "image/svg+xml",
+      "bytes": 463,
+      "file": "assets\\frontend\\img\\icon\\cicon-02.svg",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/img/icon/cicon-03.svg",
+      "final_url": "/assets/frontend/img/icon/cicon-03.svg",
+      "content_type": "image/svg+xml",
+      "bytes": 463,
+      "file": "assets\\frontend\\img\\icon\\cicon-03.svg",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/img/icon/cicon-04.svg",
+      "final_url": "/assets/frontend/img/icon/cicon-04.svg",
+      "content_type": "image/svg+xml",
+      "bytes": 463,
+      "file": "assets\\frontend\\img\\icon\\cicon-04.svg",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/img/icon/work-process-2.svg",
+      "final_url": "/assets/frontend/img/icon/work-process-2.svg",
+      "content_type": "image/svg+xml",
+      "bytes": 322,
+      "file": "assets\\frontend\\img\\icon\\work-process-2.svg",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/img/icon/work-process-3.svg",
+      "final_url": "/assets/frontend/img/icon/work-process-3.svg",
+      "content_type": "image/svg+xml",
+      "bytes": 322,
+      "file": "assets\\frontend\\img\\icon\\work-process-3.svg",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/img/icon/work-process-4.svg",
+      "final_url": "/assets/frontend/img/icon/work-process-4.svg",
+      "content_type": "image/svg+xml",
+      "bytes": 322,
+      "file": "assets\\frontend\\img\\icon\\work-process-4.svg",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/img/icon/work-process-5.svg",
+      "final_url": "/assets/frontend/img/icon/work-process-5.svg",
+      "content_type": "image/svg+xml",
+      "bytes": 322,
+      "file": "assets\\frontend\\img\\icon\\work-process-5.svg",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/img/icon/work-process-1.svg",
+      "final_url": "/assets/frontend/img/icon/work-process-1.svg",
+      "content_type": "image/svg+xml",
+      "bytes": 322,
+      "file": "assets\\frontend\\img\\icon\\work-process-1.svg",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/img/shape/case-study-shape.svg",
+      "final_url": "/assets/frontend/img/shape/case-study-shape.svg",
+      "content_type": "image/svg+xml",
+      "bytes": 1106,
+      "file": "assets\\frontend\\img\\shape\\case-study-shape.svg",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/img/shape/process-circle.svg",
+      "final_url": "/assets/frontend/img/shape/process-circle.svg",
+      "content_type": "image/svg+xml",
+      "bytes": 14570,
+      "file": "assets\\frontend\\img\\shape\\process-circle.svg",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/img/shape/course-cta-shape.svg",
+      "final_url": "/assets/frontend/img/shape/course-cta-shape.svg",
+      "content_type": "image/svg+xml",
+      "bytes": 600,
+      "file": "assets\\frontend\\img\\shape\\course-cta-shape.svg",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/img/shape/line-bg.png",
+      "final_url": "/assets/frontend/img/shape/line-bg.png",
+      "content_type": "image/png",
+      "bytes": 637723,
+      "file": "assets\\frontend\\img\\shape\\line-bg.png",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/img/loading-cart.gif",
+      "final_url": "/assets/frontend/img/loading-cart.gif",
+      "content_type": "text/html",
+      "bytes": 6058,
+      "file": "assets\\frontend\\img\\loading-cart.gif",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/img/title_s.png",
+      "final_url": "/assets/frontend/img/title_s.png",
+      "content_type": "image/png",
+      "bytes": 4442,
+      "file": "assets\\frontend\\img\\title_s.png",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/css/font/ytp-regular.eot",
+      "final_url": "/assets/frontend/css/font/ytp-regular.eot",
+      "content_type": "text/html",
+      "bytes": 6058,
+      "file": "assets\\frontend\\css\\font\\ytp-regular.eot",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/css/font/ytp-regular.ttf",
+      "final_url": "/assets/frontend/css/font/ytp-regular.ttf",
+      "content_type": "text/html",
+      "bytes": 6058,
+      "file": "assets\\frontend\\css\\font\\ytp-regular.ttf",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/css/images/raster.png",
+      "final_url": "/assets/frontend/css/images/raster.png",
+      "content_type": "text/html",
+      "bytes": 6058,
+      "file": "assets\\frontend\\css\\images\\raster.png",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/css/images/raster@2x.png",
+      "final_url": "/assets/frontend/css/images/raster@2x.png",
+      "content_type": "text/html",
+      "bytes": 6058,
+      "file": "assets\\frontend\\css\\images\\raster_2x.png",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/css/images/raster_dot.png",
+      "final_url": "/assets/frontend/css/images/raster_dot.png",
+      "content_type": "text/html",
+      "bytes": 6058,
+      "file": "assets\\frontend\\css\\images\\raster_dot.png",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/css/images/raster_dot@2x.png",
+      "final_url": "/assets/frontend/css/images/raster_dot@2x.png",
+      "content_type": "text/html",
+      "bytes": 6058,
+      "file": "assets\\frontend\\css\\images\\raster_dot_2x.png",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/uploads/media-uploader/untitled-design-81753086965.jpg",
+      "final_url": "/assets/uploads/media-uploader/untitled-design-81753086965.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 151576,
+      "file": "assets\\uploads\\media-uploader\\untitled-design-81753086965.jpg",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/uploads/media-uploader/3aa9e265-e8fa-40e8-84c4-f328d52b6d561753647506.png",
+      "final_url": "/assets/uploads/media-uploader/3aa9e265-e8fa-40e8-84c4-f328d52b6d561753647506.png",
+      "content_type": "image/png",
+      "bytes": 2163164,
+      "file": "assets\\uploads\\media-uploader\\3aa9e265-e8fa-40e8-84c4-f328d52b6d561753647506.png",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/uploads/media-uploader/grid-91753196327.jpg",
+      "final_url": "/assets/uploads/media-uploader/grid-91753196327.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 24874,
+      "file": "assets\\uploads\\media-uploader\\grid-91753196327.jpg",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/uploads/media-uploader/91753196327.jpg",
+      "final_url": "/assets/uploads/media-uploader/91753196327.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 40047,
+      "file": "assets\\uploads\\media-uploader\\91753196327.jpg",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/uploads/media-uploader/grid-71753196326.jpg",
+      "final_url": "/assets/uploads/media-uploader/grid-71753196326.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 20782,
+      "file": "assets\\uploads\\media-uploader\\grid-71753196326.jpg",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/uploads/media-uploader/71753196326.jpg",
+      "final_url": "/assets/uploads/media-uploader/71753196326.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 36250,
+      "file": "assets\\uploads\\media-uploader\\71753196326.jpg",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/uploads/media-uploader/grid-81753196326.jpg",
+      "final_url": "/assets/uploads/media-uploader/grid-81753196326.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 20220,
+      "file": "assets\\uploads\\media-uploader\\grid-81753196326.jpg",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/uploads/media-uploader/81753196326.jpg",
+      "final_url": "/assets/uploads/media-uploader/81753196326.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 30489,
+      "file": "assets\\uploads\\media-uploader\\81753196326.jpg",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/uploads/media-uploader/grid-51753196325.jpg",
+      "final_url": "/assets/uploads/media-uploader/grid-51753196325.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 36696,
+      "file": "assets\\uploads\\media-uploader\\grid-51753196325.jpg",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/uploads/media-uploader/51753196325.jpg",
+      "final_url": "/assets/uploads/media-uploader/51753196325.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 57323,
+      "file": "assets\\uploads\\media-uploader\\51753196325.jpg",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/uploads/media-uploader/grid-11753196324.jpg",
+      "final_url": "/assets/uploads/media-uploader/grid-11753196324.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 35886,
+      "file": "assets\\uploads\\media-uploader\\grid-11753196324.jpg",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/uploads/media-uploader/11753196324.jpg",
+      "final_url": "/assets/uploads/media-uploader/11753196324.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 52914,
+      "file": "assets\\uploads\\media-uploader\\11753196324.jpg",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/uploads/media-uploader/grid-41753196325.jpg",
+      "final_url": "/assets/uploads/media-uploader/grid-41753196325.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 30010,
+      "file": "assets\\uploads\\media-uploader\\grid-41753196325.jpg",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/uploads/media-uploader/41753196325.jpg",
+      "final_url": "/assets/uploads/media-uploader/41753196325.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 46474,
+      "file": "assets\\uploads\\media-uploader\\41753196325.jpg",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/uploads/media-uploader/grid-31753196325.jpg",
+      "final_url": "/assets/uploads/media-uploader/grid-31753196325.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 31737,
+      "file": "assets\\uploads\\media-uploader\\grid-31753196325.jpg",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/uploads/media-uploader/31753196325.jpg",
+      "final_url": "/assets/uploads/media-uploader/31753196325.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 47650,
+      "file": "assets\\uploads\\media-uploader\\31753196325.jpg",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/uploads/media-uploader/grid-21753196324.jpg",
+      "final_url": "/assets/uploads/media-uploader/grid-21753196324.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 22140,
+      "file": "assets\\uploads\\media-uploader\\grid-21753196324.jpg",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/uploads/media-uploader/21753196324.jpg",
+      "final_url": "/assets/uploads/media-uploader/21753196324.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 33473,
+      "file": "assets\\uploads\\media-uploader\\21753196324.jpg",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/uploads/media-uploader/grid-chatgpt-image-jul-3-2026-01-00-03-pm1783945525.png",
+      "final_url": "/assets/uploads/media-uploader/grid-chatgpt-image-jul-3-2026-01-00-03-pm1783945525.png",
+      "content_type": "image/png",
+      "bytes": 173371,
+      "file": "assets\\uploads\\media-uploader\\grid-chatgpt-image-jul-3-2026-01-00-03-pm1783945525.png",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/uploads/media-uploader/chatgpt-image-jul-3-2026-01-00-03-pm1783945525.png",
+      "final_url": "/assets/uploads/media-uploader/chatgpt-image-jul-3-2026-01-00-03-pm1783945525.png",
+      "content_type": "image/png",
+      "bytes": 1652813,
+      "file": "assets\\uploads\\media-uploader\\chatgpt-image-jul-3-2026-01-00-03-pm1783945525.png",
+      "status": "saved"
+    },
+    {
+      "url": "/departments?page=2",
+      "final_url": "/departments?page=2",
+      "content_type": "text/html",
+      "bytes": 56393,
+      "file": "departments\\index__q_bc7c7eb0ad.html",
+      "status": "saved"
+    },
+    {
+      "url": "/blog-category/3/healthcare",
+      "final_url": "/blog-category/3/healthcare",
+      "content_type": "text/html",
+      "bytes": 63266,
+      "file": "blog-category\\3\\healthcare\\index.html",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/uploads/media-uploader/thumb-81752853233.jpg",
+      "final_url": "/assets/uploads/media-uploader/thumb-81752853233.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 6985,
+      "file": "assets\\uploads\\media-uploader\\thumb-81752853233.jpg",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/uploads/media-uploader/thumb-101752853255.jpg",
+      "final_url": "/assets/uploads/media-uploader/thumb-101752853255.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 10212,
+      "file": "assets\\uploads\\media-uploader\\thumb-101752853255.jpg",
+      "status": "saved"
+    },
+    {
+      "url": "/departments/contact",
+      "final_url": "/departments/contact",
+      "content_type": "text/html",
+      "bytes": 6058,
+      "file": "departments\\contact\\index.html",
+      "status": "saved"
+    },
+    {
+      "url": "/departments/category/1/healthcare",
+      "final_url": "/departments/category/1/healthcare",
+      "content_type": "text/html",
+      "bytes": 60946,
+      "file": "departments\\category\\1\\healthcare\\index.html",
+      "status": "saved"
+    },
+    {
+      "url": "/doctors-category/6/contact",
+      "final_url": "/doctors-category/6/contact",
+      "content_type": "text/html",
+      "bytes": 55764,
+      "file": "doctors-category\\6\\contact\\index.html",
+      "status": "saved"
+    },
+    {
+      "url": "/doctors/dr-aim%C3%A9-niyonsaba/contact",
+      "status": "error",
+      "error": "<HTTPError 404: 'Not Found'>"
+    },
+    {
+      "url": "/assets/uploads/media-uploader/51752857162.jpg",
+      "final_url": "/assets/uploads/media-uploader/51752857162.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 13671,
+      "file": "assets\\uploads\\media-uploader\\51752857162.jpg",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/frontend/js/bootstrap4-rating-input.js",
+      "final_url": "/assets/frontend/js/bootstrap4-rating-input.js",
+      "content_type": "application/javascript",
+      "bytes": 5701,
+      "file": "assets\\frontend\\js\\bootstrap4-rating-input.js",
+      "status": "saved"
+    },
+    {
+      "url": "/doctors-category/7/contact",
+      "final_url": "/doctors-category/7/contact",
+      "content_type": "text/html",
+      "bytes": 55775,
+      "file": "doctors-category\\7\\contact\\index.html",
+      "status": "saved"
+    },
+    {
+      "url": "/doctors/dr.gaspard-ntazinda/contact",
+      "status": "error",
+      "error": "<HTTPError 404: 'Not Found'>"
+    },
+    {
+      "url": "/assets/uploads/media-uploader/31752857162.jpg",
+      "final_url": "/assets/uploads/media-uploader/31752857162.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 16733,
+      "file": "assets\\uploads\\media-uploader\\31752857162.jpg",
+      "status": "saved"
+    },
+    {
+      "url": "/doctors-category/5/contact",
+      "final_url": "/doctors-category/5/contact",
+      "content_type": "text/html",
+      "bytes": 57994,
+      "file": "doctors-category\\5\\contact\\index.html",
+      "status": "saved"
+    },
+    {
+      "url": "/doctors/dr.-lalita-rohilla/contact",
+      "status": "error",
+      "error": "<HTTPError 404: 'Not Found'>"
+    },
+    {
+      "url": "/assets/uploads/media-uploader/81752857163.jpg",
+      "final_url": "/assets/uploads/media-uploader/81752857163.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 14225,
+      "file": "assets\\uploads\\media-uploader\\81752857163.jpg",
+      "status": "saved"
+    },
+    {
+      "url": "/doctors-category/10/contact",
+      "final_url": "/doctors-category/10/contact",
+      "content_type": "text/html",
+      "bytes": 55759,
+      "file": "doctors-category\\10\\contact\\index.html",
+      "status": "saved"
+    },
+    {
+      "url": "/doctors/prof.-dr.-diomede-ntasumbumuyange/contact",
+      "status": "error",
+      "error": "<HTTPError 404: 'Not Found'>"
+    },
+    {
+      "url": "/assets/uploads/media-uploader/11774978863.jpg",
+      "final_url": "/assets/uploads/media-uploader/11774978863.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 22028,
+      "file": "assets\\uploads\\media-uploader\\11774978863.jpg",
+      "status": "saved"
+    },
+    {
+      "url": "/doctors/dr.-dheeraj-rohilla/contact",
+      "status": "error",
+      "error": "<HTTPError 404: 'Not Found'>"
+    },
+    {
+      "url": "/assets/uploads/media-uploader/21774978864.jpg",
+      "final_url": "/assets/uploads/media-uploader/21774978864.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 24387,
+      "file": "assets\\uploads\\media-uploader\\21774978864.jpg",
+      "status": "saved"
+    },
+    {
+      "url": "/doctors-category/9/contact",
+      "final_url": "/doctors-category/9/contact",
+      "content_type": "text/html",
+      "bytes": 55882,
+      "file": "doctors-category\\9\\contact\\index.html",
+      "status": "saved"
+    },
+    {
+      "url": "/doctors/prof.dr.-joseph-mucumbitsi/contact",
+      "status": "error",
+      "error": "<HTTPError 404: 'Not Found'>"
+    },
+    {
+      "url": "/assets/uploads/media-uploader/31774978864.jpg",
+      "final_url": "/assets/uploads/media-uploader/31774978864.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 24107,
+      "file": "assets\\uploads\\media-uploader\\31774978864.jpg",
+      "status": "saved"
+    },
+    {
+      "url": "/doctors-category/8/contact",
+      "final_url": "/doctors-category/8/contact",
+      "content_type": "text/html",
+      "bytes": 55886,
+      "file": "doctors-category\\8\\contact\\index.html",
+      "status": "saved"
+    },
+    {
+      "url": "/doctors/dr.odile-murekatete/contact",
+      "status": "error",
+      "error": "<HTTPError 404: 'Not Found'>"
+    },
+    {
+      "url": "/assets/uploads/media-uploader/untitled-design-251774514597.png",
+      "final_url": "/assets/uploads/media-uploader/untitled-design-251774514597.png",
+      "content_type": "image/png",
+      "bytes": 193815,
+      "file": "assets\\uploads\\media-uploader\\untitled-design-251774514597.png",
+      "status": "saved"
+    },
+    {
+      "url": "/doctors/dr.-beno%C3%AEt-nyirinkwaya/contact",
+      "status": "error",
+      "error": "<HTTPError 404: 'Not Found'>"
+    },
+    {
+      "url": "/assets/uploads/media-uploader/71752857163.jpg",
+      "final_url": "/assets/uploads/media-uploader/71752857163.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 12584,
+      "file": "assets\\uploads\\media-uploader\\71752857163.jpg",
+      "status": "saved"
+    },
+    {
+      "url": "/blog/contact",
+      "final_url": "/blog/contact",
+      "content_type": "text/html",
+      "bytes": 6058,
+      "file": "blog\\contact\\index.html",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/uploads/media-uploader/grid-91752853202.jpg",
+      "final_url": "/assets/uploads/media-uploader/grid-91752853202.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 24728,
+      "file": "assets\\uploads\\media-uploader\\grid-91752853202.jpg",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/uploads/media-uploader/grid-81752853233.jpg",
+      "final_url": "/assets/uploads/media-uploader/grid-81752853233.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 16756,
+      "file": "assets\\uploads\\media-uploader\\grid-81752853233.jpg",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/uploads/media-uploader/grid-101752853255.jpg",
+      "final_url": "/assets/uploads/media-uploader/grid-101752853255.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 27337,
+      "file": "assets\\uploads\\media-uploader\\grid-101752853255.jpg",
+      "status": "saved"
+    },
+    {
+      "url": "/blog-tags/hepatitis-c-symptoms",
+      "final_url": "/blog-tags/hepatitis-c-symptoms",
+      "content_type": "text/html",
+      "bytes": 58042,
+      "file": "blog-tags\\hepatitis-c-symptoms\\index.html",
+      "status": "saved"
+    },
+    {
+      "url": "/blog-tags/hcv-signs",
+      "final_url": "/blog-tags/hcv-signs",
+      "content_type": "text/html",
+      "bytes": 57976,
+      "file": "blog-tags\\hcv-signs\\index.html",
+      "status": "saved"
+    },
+    {
+      "url": "/blog-tags/liver-disease-symptoms",
+      "final_url": "/blog-tags/liver-disease-symptoms",
+      "content_type": "text/html",
+      "bytes": 58054,
+      "file": "blog-tags\\liver-disease-symptoms\\index.html",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/uploads/media-uploader/grid-chatgpt-image-jul-11-2026-11-13-44-am1783945049.png",
+      "final_url": "/assets/uploads/media-uploader/grid-chatgpt-image-jul-11-2026-11-13-44-am1783945049.png",
+      "content_type": "image/png",
+      "bytes": 209451,
+      "file": "assets\\uploads\\media-uploader\\grid-chatgpt-image-jul-11-2026-11-13-44-am1783945049.png",
+      "status": "saved"
+    },
+    {
+      "url": "/blog-tags/oral-health-facts",
+      "final_url": "/blog-tags/oral-health-facts",
+      "content_type": "text/html",
+      "bytes": 58024,
+      "file": "blog-tags\\oral-health-facts\\index.html",
+      "status": "saved"
+    },
+    {
+      "url": "/blog-tags/dental-care-tips",
+      "final_url": "/blog-tags/dental-care-tips",
+      "content_type": "text/html",
+      "bytes": 58018,
+      "file": "blog-tags\\dental-care-tips\\index.html",
+      "status": "saved"
+    },
+    {
+      "url": "/blog-tags/brushing-teeth-kigali",
+      "final_url": "/blog-tags/brushing-teeth-kigali",
+      "content_type": "text/html",
+      "bytes": 58048,
+      "file": "blog-tags\\brushing-teeth-kigali\\index.html",
+      "status": "saved"
+    },
+    {
+      "url": "/blog-tags/clinical-health-blog",
+      "final_url": "/blog-tags/clinical-health-blog",
+      "content_type": "text/html",
+      "bytes": 58042,
+      "file": "blog-tags\\clinical-health-blog\\index.html",
+      "status": "saved"
+    },
+    {
+      "url": "/blog-tags/deva-medical-information",
+      "final_url": "/blog-tags/deva-medical-information",
+      "content_type": "text/html",
+      "bytes": 58066,
+      "file": "blog-tags\\deva-medical-information\\index.html",
+      "status": "saved"
+    },
+    {
+      "url": "/assets/uploads/media-uploader/71752851444.jpg",
+      "final_url": "/assets/uploads/media-uploader/71752851444.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 87863,
+      "file": "assets\\uploads\\media-uploader\\71752851444.jpg",
+      "status": "saved"
+    },
+    {
+      "url": "/departments/imaging-services",
+      "final_url": "/departments/imaging-services",
+      "content_type": "text/html",
+      "bytes": 61760,
+      "file": "departments\\imaging-services\\index.html",
+      "status": "saved"
+    },
+    {
+      "url": "/departments?page=1",
+      "final_url": "/departments?page=1",
+      "content_type": "text/html",
+      "bytes": 60652,
+      "file": "departments\\index__q_c5c34f0fdf.html",
+      "status": "saved"
+    },
+    {
+      "url": "/blog-category/3/contact",
+      "final_url": "/blog-category/3/contact",
+      "content_type": "text/html",
+      "bytes": 63260,
+      "file": "blog-category\\3\\contact\\index.html",
+      "status": "saved"
+    },
+    {
+      "url": "/departments/category/1/contact",
+      "final_url": "/departments/category/1/contact",
+      "content_type": "text/html",
+      "bytes": 60934,
+      "file": "departments\\category\\1\\contact\\index.html",
+      "status": "saved"
+    },
+    {
+      "url": "/departments/category/1/healthcare?page=2",
+      "final_url": "/departments/category/1/healthcare?page=2",
+      "content_type": "text/html",
+      "bytes": 56587,
+      "file": "departments\\category\\1\\healthcare\\index__q_bc7c7eb0ad.html",
+      "status": "saved"
+    },
+    {
+      "url": "/blog-tags/contact",
+      "final_url": "/blog-tags/contact",
+      "content_type": "text/html",
+      "bytes": 57964,
+      "file": "blog-tags\\contact\\index.html",
+      "status": "saved"
+    },
+    {
+      "url": "/departments/category/1/contact?page=2",
+      "final_url": "/departments/category/1/contact?page=2",
+      "content_type": "text/html",
+      "bytes": 56575,
+      "file": "departments\\category\\1\\contact\\index__q_bc7c7eb0ad.html",
+      "status": "saved"
+    },
+    {
+      "url": "/departments/category/1/healthcare?page=1",
+      "final_url": "/departments/category/1/healthcare?page=1",
+      "content_type": "text/html",
+      "bytes": 60946,
+      "file": "departments\\category\\1\\healthcare\\index__q_c5c34f0fdf.html",
+      "status": "saved"
+    },
+    {
+      "url": "/departments/category/1/contact?page=1",
+      "final_url": "/departments/category/1/contact?page=1",
+      "content_type": "text/html",
+      "bytes": 60934,
+      "file": "departments\\category\\1\\contact\\index__q_c5c34f0fdf.html",
+      "status": "saved"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+:root { --ink: #17324d; --muted: #66788a; --green: #2da658; --pale: #eef7f1; --line: #dce7e0; }
+* { box-sizing: border-box; }
+body { margin: 0; min-height: 100vh; color: var(--ink); background: linear-gradient(135deg, #f5fbf7, #e7f2f8); font-family: Georgia, 'Times New Roman', serif; }
+.admin-shell { display: grid; min-height: 100vh; place-items: center; padding: 24px; }
+.admin-card { width: min(100%, 430px); padding: 48px; background: rgba(255,255,255,.94); border: 1px solid rgba(255,255,255,.8); box-shadow: 0 24px 70px rgba(23,50,77,.14); }
+.eyebrow { margin: 0 0 20px; color: var(--green); font: 700 12px/1.2 Arial, sans-serif; letter-spacing: 2px; text-transform: uppercase; }
+h1 { margin: 0 0 10px; font-size: 38px; line-height: 1.05; }
+.intro { margin: 0 0 32px; color: var(--muted); font: 16px/1.5 Arial, sans-serif; }
+label { display: block; margin: 18px 0 8px; font: 700 13px/1.2 Arial, sans-serif; }
+input { width: 100%; padding: 13px 14px; border: 1px solid var(--line); border-radius: 2px; color: var(--ink); background: #fff; font: 16px Arial, sans-serif; }
+input:focus { outline: 3px solid rgba(45,166,88,.2); border-color: var(--green); }
+button { width: 100%; margin-top: 28px; padding: 14px 18px; border: 0; border-radius: 2px; color: #fff; background: var(--green); cursor: pointer; font: 700 14px Arial, sans-serif; }
+button:hover { background: #218446; }
+.secondary { color: var(--ink); background: var(--pale); }
+.message { min-height: 20px; margin: 14px 0 0; color: #a22d2d; font: 13px/1.4 Arial, sans-serif; }
+.status { color: var(--green); font: 700 15px Arial, sans-serif; }
+#dashboard p:not(.status) { color: var(--muted); font: 15px/1.5 Arial, sans-serif; }
+@media (max-width: 480px) { .admin-card { padding: 34px 24px; } h1 { font-size: 32px; } }

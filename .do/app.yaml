@@ -1,0 +1,6 @@
+name: devamc
+static_sites:
+  - name: website
+    source_dir: /
+    catchall_document: index.html
+    index_document: index.html
